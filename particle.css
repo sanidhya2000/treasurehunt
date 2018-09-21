@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 body{
-	background-image: linear-gradient(to right, rgb(96, 22, 233), rgb(233, 22, 112));
+	/*background-image: linear-gradient(to right, rgb(96, 22, 233), rgb(233, 22, 112));*/
 	font-family: 'Merriweather', serif;
+	background-image: url(https://cdn-images-1.medium.com/max/1200/1*1uIttjuEz_Ry7EghgQnHkA.gif);
+	image-rendering: pixelated;
+    background-size: cover;
 }
 .center{
   display: flex;
@@ -9,4 +12,8 @@ body{
 }
 .b1{
 	font-size: 1.5em;
+}
+.a1{
+	background-color: rgba(255,255,255,0.6);
+
 }
