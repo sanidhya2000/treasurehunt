@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+body{
+	background-image: linear-gradient(to right, rgb(96, 22, 233), rgb(233, 22, 112));
+	font-family: 'Merriweather', serif;
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
+.b1{
+	font-size: 1.5em;
+}
